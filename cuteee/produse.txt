@@ -1,0 +1,9 @@
+10,guma mestecat,mancare,98
+13,asdadd,12asd,90
+14,asdadd,12asd,98
+3,agd,asdf,43
+31,asdqw,dwqd,43
+9,reafael,maimutoi,12
+123,asd,fff,54
+1233,asd,asdf,54
+1234,asd,asdf,54
